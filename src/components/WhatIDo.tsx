@@ -87,20 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>AI-POWERED APPLICATIONS</h3>
+              <h4>NLP & LLM Integration for Real-World Solutions</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Building AI-driven applications that solve real-world problems. Specializing in NLP workflows, LLM API integrations, and systems that combine machine learning with practical verification mechanisms.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">NLP &amp; ML</div>
+                <div className="what-tags">LLM APIs</div>
+                <div className="what-tags">Data Processing</div>
+                <div className="what-tags">Verification Systems</div>
+                <div className="what-tags">scikit-learn &amp; Pandas</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +123,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>FULL-STACK DEVELOPMENT</h3>
+              <h4>Building Scalable, Modern Web Applications</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Developing end-to-end applications with modern tech stacks. From backend APIs and database design to interactive frontends, creating production-ready solutions that scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">TypeScript</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Vite</div>
+                <div className="what-tags">API Design</div>
               </div>
               <div className="what-arrow"></div>
             </div>
