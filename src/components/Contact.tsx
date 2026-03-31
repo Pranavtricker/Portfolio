@@ -57,7 +57,7 @@ const Contact = () => {
               YouTube <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://www.instagram.com/12pranav05/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
