@@ -19,13 +19,6 @@ const projects = [
     link: "https://github.com/Pranavtricker/Expense-Manager",
   },
   {
-    title: "Document Converter",
-    category: "File Conversion & Processing Tool",
-    tools: "JavaScript, File Handling, Data Processing",
-    image: "/images/converter.png",
-    link: "https://github.com/Pranavtricker/doconvertor",
-  },
-  {
     title: "Webcam Object Detection",
     category: "Real-time Computer Vision Application",
     tools: "Python, Object Detection, Machine Learning",
