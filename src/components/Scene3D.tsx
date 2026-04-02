@@ -10,7 +10,7 @@ function FloatingShapes() {
   const groupRef = useRef<THREE.Group>(null)
   const mouseRef = useRef({ x: 0, y: 0 })
 
-  useFrame((state) => {
+  useFrame(() => {
     if (groupRef.current) {
       groupRef.current.rotation.x = THREE.MathUtils.lerp(
         groupRef.current.rotation.x,
